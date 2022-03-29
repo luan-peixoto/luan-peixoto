@@ -36,5 +36,5 @@
 </hr>
 <p>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luan-peixoto&show_icons=true&locale=en&layout=compact" alt="luan-peixoto" />
-  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=luan-peixoto&show_icons=true&locale=en" alt="luan-peixoto" />
+  &nbsp;&nbsp;&nbsp;<img width="410px" src="https://github-readme-stats.vercel.app/api?username=luan-peixoto&show_icons=true&locale=en" alt="luan-peixoto" />
 </p>
