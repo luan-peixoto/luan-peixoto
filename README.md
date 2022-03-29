@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome to my Profile.</h2>
+<h1 align="center">Hello! Welcome to my Profile.</h1>
 </hr>
 <p align="left">I am a Computer Science student at Universidade Federal Fluminense. Currently working on frontend development, but also open to learn any kind of technology.</p>
 
